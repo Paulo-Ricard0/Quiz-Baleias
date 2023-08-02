@@ -1,0 +1,22 @@
+10 PERGUNTAS
+PALETA/CORES (PERGUNTAR PARA BEA QUAL A COR FAVORITA DELA)
+
+COMO VAI SER:
+Vai ser um Quiz Desafio
+
+QUIZ DA BEA
+Todo dia vamos perguntar no começo, ou durante a aula uma pergunta
+quiz para a Bea, no final vamos ter as respostas
+e quem prestou atenção nesse detalhe, vai gabaritar.
+
+PERGUNTAS:
+1: Cor favorita da Bea?
+2: Quantos instrumentos a Bea sabe tocar?
+3: Quando começou a programar?
+4: Qual linguagem favorita?
+5: Qual esporte a Bea mais prática? R: Volei
+6: Onde a Bea Mora? R: São Paulo
+7: Qual melhor lugar que viajou?
+8: Quantas coisas da Apple Bea tem?
+9: Qual estilo de música favorito?
+10: Qual o nome do cachorro da Bea?
