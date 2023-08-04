@@ -71,10 +71,16 @@ body{
    margin-bottom: 5px;
 } 
 
-.pergunta{
-    color: #ffffff;
+.p{
     margin: 5px;
 }
+
+.pergunta{
+    color: #ffffff;
+    margin: 10px;
+    
+}
+
 
 .button{
     width: 190px;
