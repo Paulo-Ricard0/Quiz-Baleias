@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+     background-color: #003049;
+     font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 5%;
+    background-color: #669bbc;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo{
+    font-size: 32px;
+    color: #3d405b;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.navbar a{
+    font-size: 18px;
+    color: #3d405b;
+    text-decoration: none;
+    font-weight: 700;
+    margin-left: 35px;
+    transition: .3s;
+}
+
+.navbar a:hover {
+    color: #03045e;
+}
+
+
+
+.baleias{
+    
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 9000px;
+}
+
+.baleias2{
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.baleias2 h1{
+    font-size: 70px;
+    font-weight: 600;
+    text-shadow: 0 0 10px #023e8a;
+    color: #f0f2fe;
+}
+
+.baleias2 p{
+    font-size: 17px;
+    color: #f0f2fe;
+    text-align: center;
+    text-shadow: #023e8a;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+.button{
+    width: 190px;
+    height: 55px;
+    background: #669bbc;
+    border: 2px solid #669bbc;
+    outline: none;
+    border-radius: 6px;
+    box-shadow: 10px 10px 1px #023e8a;
+    font-size: 18px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    font-weight: 300;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.button:hover{
+   background: #03045e;
+   box-shadow: none;
+   transform: scale(1.2);
+}
+
+.img{
+    margin-top: 5px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   margin-bottom: 5px;
+} 
+
+.h2{
+    font-size: 30px;
+    font-weight: 600;
+    text-shadow: 0 0 10px #023e8a;
+    color: #f0f2fe;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.li{
+    list-style: none;
+    margin: 0;
+    color: #ffffff;
+}
+
+
+
+ 
+
+    
