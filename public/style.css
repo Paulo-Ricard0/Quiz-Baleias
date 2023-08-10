@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap%22);
+
+/* Default styles */
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "poppins", sans-serif;
+}
+
+/* root */
+:root {
+  --card-color: #3b7e9438;
+  --button-color: #ffffff8a;
+  --hover-button: #e4e4e48a;
+  --primary-color: #e6e6e6;
+  --secondary-color: #ffffffbb;
+  --terceira-color: #1a1919;
+}
