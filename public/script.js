@@ -19,3 +19,5 @@ import questions from "./questions.js";
 let currentIndex = 0;
 let questionsCorrect = 0;
 let userName;
+
+// verifica se uma string está vazia ou é numérica
