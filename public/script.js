@@ -11,3 +11,5 @@ const restartButton = document.querySelector(".finish button");
 const tryAgainScreen = document.querySelector(".tryAgainScreen");
 const textTryAgainScreen = document.querySelector(".tryAgainScreen span");
 const tryAgainButton = document.querySelector(".tryAgainScreen button");
+
+import questions from "./questions.js"; 
