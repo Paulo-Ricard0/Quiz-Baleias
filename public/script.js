@@ -65,4 +65,34 @@ function showFinishScreen() {
   questionContainer.style.display = "none";
   finishContainer.style.display = "flex";
 }
+
+// Carrega uma nova questão
+function loadQuestion() {
+  finishContainer.style.display = "none";
+  questionContainer.style.display = "flex";
+  const currentQuestion = questions[currentIndex];
+  updateQuestionDisplay(currentQuestion);
+  createAnswerButtons(currentQuestion.answers);
+}
+
+// atualiza a exibição da pergunta
+function updateQuestionDisplay(question) {
+  questionsQtd.innerHTML = `Questão ${currentIndex + 1} de ${questions.length}`;
+  questionElement.textContent = question.question;
+}
+
+// Cria botões de respostas
+function createAnswerButtons(answers) {
+  answersContainer.innerHTML = "";
+  answers.forEach((answer) => {
+    const answerButton = document.createElement("button");
+    answerButton.classList.add("answer");
+    answerButton.setAttribute("data-correct", answer.correct);
+    answerButton.innerHTML = `
+      <span class="letter">${answer.questionLetter}</span> ${answer.option}
+    `;
+    answersContainer.appendChild(answerButton);
+  });
+}
+ 
  
