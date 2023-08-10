@@ -15,3 +15,7 @@ const tryAgainButton = document.querySelector(".tryAgainScreen button");
 import questions from "./questions.js"; 
 
 // Inicializa variáveis para controle do estado do quiz
+
+let currentIndex = 0;
+let questionsCorrect = 0;
+let userName;
