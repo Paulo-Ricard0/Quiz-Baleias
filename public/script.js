@@ -21,3 +21,7 @@ let questionsCorrect = 0;
 let userName;
 
 // verifica se uma string está vazia ou é numérica
+
+function isStringEmpty(str) {
+    return str.trim().length === 0 || !isNaN(str);
+  }
