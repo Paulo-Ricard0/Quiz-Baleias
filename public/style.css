@@ -59,3 +59,10 @@ body {
   color: #d1eff8;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
+
+.startScreen p {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--terceira-color);
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+}
