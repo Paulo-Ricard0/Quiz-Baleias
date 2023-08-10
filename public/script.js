@@ -25,3 +25,44 @@ let userName;
 function isStringEmpty(str) {
     return str.trim().length === 0 || !isNaN(str);
   }
+
+  // Obtém um nome de usuário válido
+function getValidUserName() {
+  do {
+    userName = prompt("Bem vindo! Digite aqui o seu nome para começar!");
+
+    if (userName === null) {
+      showStartScreen();
+    }
+
+    if (isStringEmpty(userName)) {
+      alert("Você precisa digitar um nome válido para iniciar");
+      showStartScreen();
+    }
+  } while (isStringEmpty(userName));
+
+  return userName;
+}
+
+function showStartScreen() {
+  startScreen.style.display = "flex";
+  quizScreen.style.display = "none";
+  tryAgainScreen.style.display = "none";
+}
+
+function showQuizScreen() {
+  startScreen.style.display = "none";
+  quizScreen.style.display = "flex";
+  tryAgainScreen.style.display = "none";
+}
+
+function showTryAgainScreen() {
+  quizScreen.style.display = "none";
+  tryAgainScreen.style.display = "flex";
+}
+
+function showFinishScreen() {
+  questionContainer.style.display = "none";
+  finishContainer.style.display = "flex";
+}
+ 
