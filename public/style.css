@@ -17,3 +17,31 @@ font-family: "poppins", sans-serif;
   --secondary-color: #ffffffbb;
   --terceira-color: #1a1919;
 }
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: linear-gradient(
+    to bottom right,
+    #deeefa 0%,
+    #78a5ce 40%,
+    #567dbd 60%,
+    #2955a1 100%
+  );
+  animation: move-gradient 5s infinite alternate;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+  background-size: 200% 200%;
+}
+
+@keyframes move-gradient {
+  from {
+    background-position: 100% 100%;
+  }
+  to {
+    background-position: 0% 0%;
+  }
+}
+ 
