@@ -13,7 +13,7 @@ Bem-vindo ao Quiz sobre Baleias! Teste seus conhecimentos sobre esses majestosos
 
 ## Colaboradores
 
-Este projeto foi desenvolvido com a colaboração das seguintes pessoas:
+Este projeto foi desenvolvido com a colaboração de:
 
 - [Sete777](https://github.com/Sete777)
 - [Paulo-Ricard0](https://github.com/Paulo-Ricard0)
