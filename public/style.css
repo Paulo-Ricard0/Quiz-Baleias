@@ -44,4 +44,13 @@ body {
     background-position: 0% 0%;
   }
 }
+
+/* Start screen styles */
+.startScreen {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  text-align: center;
+}
  
