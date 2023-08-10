@@ -2,7 +2,7 @@
 
 Bem-vindo ao Quiz sobre Baleias! Teste seus conhecimentos sobre esses majestosos mamíferos marinhos com nosso divertido quiz desenvolvido em HTML, CSS e JavaScript.</br></br>
 
-![Quiz sobre Baleias](https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/QuizBaleias.png?alt=media&token=a06493a7-97f3-4da6-9215-d9813d5ee7d1) </br></br>
+![Quiz sobre Baleias](https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/site.mp4?alt=media&token=98b27aa6-f927-441b-a5b2-4234b1257c9e) </br></br>
 
 ## Como Jogar
 
