@@ -36,7 +36,7 @@ Se você deseja executar o quiz localmente ou contribuir para o projeto, siga es
 
 2. Navegue até o diretório do projeto
 
-3. Abra o arquivo `index.html` em um navegador web moderno.
+3. Abra o arquivo `index.html` em um navegador web moderno utilizando um servidor local ou ferramentas como o Live Server para iniciar um servidor HTTP local na sua máquina.
 
 ## Contribuição
 
