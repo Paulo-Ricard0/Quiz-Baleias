@@ -1,0 +1,21 @@
+ Olá! Se você estiver tentando abrir o quiz diretamente no seu navegador pelo arquivo HTML e estiver encontrando um erro no console de desenvolvedor que diz:
+
+"Access to script at 'file:///c%3A/.../script.js' from origin 'null' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, isolated-app, brave, https, chrome-untrusted, data, chrome-extension, chrome."
+
+Não se preocupe! Esse erro ocorre porque os navegadores aplicam uma política de segurança chamada "Same-Origin Policy", que impede que recursos externos sejam carregados a partir de um arquivo HTML local diretamente no navegador.
+
+Para evitar esse erro e testar o quiz corretamente, você pode seguir os seguintes passos:
+
+1. Abra o Visual Studio Code (ou qualquer editor de código de sua escolha).
+
+2. Certifique-se de ter instalada a extensão "Live Server". Caso ainda não a tenha, você pode instalá-la diretamente pelo Visual Studio Code acessando o menu de extensões (ícone de quadrado no canto esquerdo) e pesquisando por "Live Server". Essa extensão nos permitirá criar um servidor local temporário para o projeto.
+
+3. Clique com o botão direito no arquivo HTML principal ('index.html').
+
+5. Selecione a opção "Open with Live Server". Isso iniciará um servidor local temporário.
+
+6. O navegador padrão será aberto automaticamente com o projeto carregado no endereço 'http://localhost:5500' (ou outra porta, se a 5500 estiver em uso). Agora você poderá interagir com o quiz sem enfrentar problemas de CORS!
+
+7. Se preferir você pode jogar o quiz direto no site pelo link: https://quiz-baleias.web.app/
+
+Divirta-se aprendendo sobre esses magníficos mamíferos marinhos! 
