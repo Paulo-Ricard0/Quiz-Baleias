@@ -132,6 +132,8 @@ npx http-server
 
 # 8. Acesse o site localmente digitando http://localhost:8080 ou http://127.0.0.1:8080 no seu navegador.
 
+# 9. Ou se preferir pode executar usando a extensão "Live server".
+
 ```
 
 Pronto! Agora você pode ver e modificar o projeto na sua máquina.
