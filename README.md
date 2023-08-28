@@ -63,7 +63,7 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 ### 🖥️ Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/Sem%20T%C3%ADtulo-1.png?alt=media&token=bd71f01b-83c9-409b-99fc-4e0db402cc55" width="800px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/ultimaDesktop.png?alt=media&token=7cfbf612-e1df-4836-99dd-b9199e3cb331" width="800px">
 </p>
 
 ---
