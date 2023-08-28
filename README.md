@@ -79,6 +79,22 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 
 Será se você consegue chegar até o final sem errar? 💯
 
+---
+
+## 🛠️ Tecnologias utilizadas
+
+<div>
+<img alt="GitHub language count" src="https://img.shields.io/badge/HTML5-0e7fc0?style=for-the-badge&logo=html5&logoColor=white">
+
+<img alt="Repository size" src="https://img.shields.io/badge/CSS3-0e7fc0?style=for-the-badge&logo=css3&logoColor=white">
+
+<img alt="License" src="https://img.shields.io/badge/JavaScript-0e7fc0?style=for-the-badge&logo=javascript&logoColor=white">
+
+<img alt="GitHub last commit" src="https://img.shields.io/badge/Firebase-0e7fc0?style=for-the-badge&logo=firebase&logoColor=white">
+ 
+</div>
+
+
 ## Colaboradores
 
 Este projeto foi desenvolvido com a colaboração de:
