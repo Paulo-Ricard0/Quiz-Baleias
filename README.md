@@ -55,15 +55,15 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 ### 📱 Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(3).png?alt=media&token=a6f14294-3bee-4bd7-9c14-fb3d74a79fcb" width="200px">
+  <img alt="layoutMobile" title="#layoutMobile" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(3).png?alt=media&token=a6f14294-3bee-4bd7-9c14-fb3d74a79fcb" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(4).png?alt=media&token=218b9156-d764-4657-80a0-d9d478780538" width="200px">
+  <img alt="layoutMobile" title="#layoutMobile" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(4).png?alt=media&token=218b9156-d764-4657-80a0-d9d478780538" width="200px">
 </p>
 
 ### 🖥️ Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/ultimaDesktop.png?alt=media&token=7cfbf612-e1df-4836-99dd-b9199e3cb331" width="800px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/ultimaDesktop.png?alt=media&token=7cfbf612-e1df-4836-99dd-b9199e3cb331" width="600px">
 </p>
 
 ---
