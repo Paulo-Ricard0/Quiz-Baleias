@@ -27,7 +27,7 @@
 </h4>
 
 ## 📋 Tabela de Conteúdos
-- <a id="sobre-o-projeto">💻 Sobre o projeto</a>
+- <a href="sobre-o-projeto">💻 Sobre o projeto</a>
 - [⚙️ Funcionalidades](#-funcionalidades)
 - [🎨 Layout](#layout)
 - [🧩 Modules](#modules)
