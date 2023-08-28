@@ -28,11 +28,11 @@
 
 ## 📋 Tabela de Conteúdos
 - [💻 Sobre o projeto](#-sobre-o-projeto)
-- [⚙️ Funcionalidades](#funcionalidades)
+- [⚙️ Funcionalidades](#️-funcionalidades)
 - [🎨 Layout](#-layout)
-    - [📱 Mobile](#-mobile)
-    - [🖥️ Web](#web)
-- [🎮 Como Jogar](#como-jogar)
+  - [📱 Mobile](#-mobile)
+  - [🖥️ Web](#️-web)
+- [🎮 Como Jogar](#-como-jogar)
 - [🛠️ Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [🚀 Como executar localmente](#-como-executar-localmente)
 - [🤝 Colaboradores](#-colaboradores)
