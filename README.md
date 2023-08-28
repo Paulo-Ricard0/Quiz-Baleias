@@ -27,20 +27,21 @@
 </h4>
 
 ## 📋 Tabela de Conteúdos
-- <a href="#sobre-o-projeto">💻 Sobre o projeto</a>
+- [💻 Sobre o projeto](#-sobre-o-projeto)
 - [⚙️ Funcionalidades](#-funcionalidades)
 - [🎨 Layout](#layout)
-- [🧩 Modules](#modules)
-- [🚀 Getting Started](#-getting-started)
-- [🗺 Roadmap](#-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
-
+    - [📱 Mobile](#mobile)
+    - [🖥️ Web](#web)
+- [🎮 Como Jogar](#como-jogar)
+- [🛠️ Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [🚀 Como executar localmente](#-como-executar-localmente)
+- [🤝 Colaboradores](#-colaboradores)
+- [💪 Como contribuir para o projeto](#-como-contribuir-para-o-projeto)
+- [📝 Licença](#-licença)
 
 ---
 
-<h2 id="#sobre-o-projeto">💻 Sobre o projeto</h2>
+## 💻 Sobre o projeto
 
 🐋 Quiz sobre Baleias é um projeto de final de módulo desenvolvido para aplicar o conhecimento adquirido durante o Módulo 1 do [Programadores do Amanhã](https://programadoresdoamanha.org/). Nosso objetivo é fornecer um meio divertido e educativo para as pessoas aprenderem sobre esses magníficos animais e conscientizar sobre a importância da preservação das baleias e dos oceanos.
 
