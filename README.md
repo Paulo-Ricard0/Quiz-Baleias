@@ -31,7 +31,7 @@
 - [⚙️ Funcionalidades](#funcionalidades)
 - [🎨 Layout](#-layout)
     - [📱 Mobile](#-mobile)
-    - [🖥️ Web](#-web)
+    - [🖥️ Web](#web)
 - [🎮 Como Jogar](#como-jogar)
 - [🛠️ Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [🚀 Como executar localmente](#-como-executar-localmente)
