@@ -29,7 +29,7 @@
 ## 📋 Tabela de Conteúdos
 - [💻 Sobre o projeto](#-sobre-o-projeto)
 - [⚙️ Funcionalidades](#-funcionalidades)
-- [🎨 Layout](#layout)
+- [🎨 Layout](#-layout)
     - [📱 Mobile](#mobile)
     - [🖥️ Web](#web)
 - [🎮 Como Jogar](#como-jogar)
