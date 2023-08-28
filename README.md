@@ -140,18 +140,22 @@ Pronto! Agora você pode ver e modificar o projeto na sua máquina.
 
 ---
 
-## Colaboradores
+## 🤝 Colaboradores
 
 Este projeto foi desenvolvido com a colaboração de:
 
-- [Sete777](https://github.com/Sete777)
-- [Paulo-Ricard0](https://github.com/Paulo-Ricard0)
-- [Fladeveras](https://github.com/Fladeveras)
-- [gvmckl](https://github.com/gvmckl)
-- [iingridliveira](https://github.com/iingridliveira)
-- [Thami078](https://github.com/Thami078)
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Paulo-Ricard0"><img src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/ultima2.jpg?alt=media&token=68c74a20-9738-4d63-9aaf-b02608678c93" width="80px" alt="Foto Paulo Ricardo"/><br /><sub><b>Paulo Ricardo</b></sub></a><br />🌊</td>
+    <td align="center"><a href="https://github.com/Sete777"><img src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/wagner2.jpg?alt=media&token=d0257df3-897a-48fb-92f1-549b345e0c76" width="80px;" alt="Foto Wagner Gomes"/><br /><sub><b>Wagner Gomes</b></sub></a><br />🌊</td>
+    <td align="center"><a href="https://github.com/gvmckl"><img src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/geovanna.jpg?alt=media&token=f2cb4d95-e648-476f-bddc-8d8c43c5fec0" width="80px" alt="Foto Geovanna Mickaella"/><br /><sub><b>Geovanna Mickaella</b></sub></a><br />🌊</td>
+    <td align="center"><a href="https://github.com/Fladeveras"><img src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/Flavia.jpg?alt=media&token=2db324ba-96bb-4829-8262-e51323d68fb4" width="80px" alt="Foto Flavya Devereas"/><br /><sub><b>Flavya Devereas</b></sub></a><br />🌊</td>
+    <td align="center"><a href="https://github.com/Thami078"><img src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/thamires.jpg?alt=media&token=0d7b32cd-d71a-4501-bbab-4886a6c967ee" width="80px" alt="Foto Thamires Alves"/><br /><sub><b>Thamires Alves </b></sub></a><br />🌊</td>
+    <td align="center"><a href="https://github.com/iingridliveira"><img src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/ingrid.jpg?alt=media&token=189735ff-4d08-442d-b4aa-b5a2c5cfc9a5" width="80px" alt="Foto Ingrid Oliveira"/><br /><sub><b>Ingrid Oliveira</b></sub></a><br />🌊</td>
+  </tr>
+</table>
 
-Obrigado a todos os membros da equipe por suas contribuições! </br></br>
+Obrigado a todos os membros da equipe por suas contribuições! 💙
 
 ## Contribuição
 
