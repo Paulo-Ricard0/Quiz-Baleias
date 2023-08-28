@@ -68,12 +68,16 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 
 ---
 
-## Como Jogar
+## 🎮 Como Jogar
 
-1. Acesse o [link do deploy do site](https://quiz-baleias.web.app/) para iniciar o quiz.
+1. Acesse o [link](https://quiz-baleias.web.app/) do site para iniciar o quiz.
 2. Digite seu nome para começar.
-3. Responda as perguntas sem errar, se errar você voltará do começo.
-4. Será se você consegue chegar até o final sem errar?</br></br>
+3. Responda as perguntas de múltipla escolha que aparecerão na tela. Cada pergunta tem quatro alternativas, mas apenas uma é a correta.
+4. Se você acertar a resposta, você ganha um ponto e avança para a próxima pergunta. Se você errar, você perde todos os pontos e volta para o início.
+5. O jogo termina quando você responder corretamente as cinco perguntas.
+6. Você pode jogar quantas vezes quiser, basta clicar em "Reiniciar" na tela final.
+
+Será se você consegue chegar até o final sem errar? 💯
 
 ## Colaboradores
 
