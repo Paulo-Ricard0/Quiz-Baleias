@@ -48,6 +48,26 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 - [x] **Sistema de pontuação:** O usuário recebe um ponto por cada resposta certa e perde todos os pontos se errar alguma resposta.
 - [x] **Design responsivo:** O layout do site se ajusta de acordo com o tamanho da tela do dispositivo.
 
+---
+
+## 🎨 Layout
+
+### Mobile
+
+<p align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(3).png?alt=media&token=a6f14294-3bee-4bd7-9c14-fb3d74a79fcb" width="200px">
+
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(4).png?alt=media&token=218b9156-d764-4657-80a0-d9d478780538" width="200px">
+</p>
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/Desktop.jpg?alt=media&token=a3a34a8c-0ace-47f0-849f-f5c15257d776" width="400px">
+</p>
+
+---
+
 ## Como Jogar
 
 1. Acesse o [link do deploy do site](https://quiz-baleias.web.app/) para iniciar o quiz.
