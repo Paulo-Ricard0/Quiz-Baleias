@@ -94,6 +94,49 @@ Será se você consegue chegar até o final sem errar? 💯
  
 </div>
 
+---
+
+## 🚀 Como executar localmente
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/). 
+ Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+#### 👨‍💻 Rodando a aplicação: 
+
+```bash
+
+# 1. Instale o Git no seu computador, caso ainda não tenha.
+
+# 2. Abra o terminal ou o prompt de comando e clone este repositório.
+
+git clone https://github.com/Paulo-Ricard0/Quiz-Baleias.git
+
+# 3. Acesse a pasta do projeto no seu terminal/cmd.
+
+cd Quiz-Baleias
+
+# 4. Instale o Node.js no seu computador, caso ainda não tenha.
+
+# 5. Acesse a pasta public do projeto no seu terminal/cmd.
+
+cd public
+
+# 6. Execute o comando.
+
+npx http-server
+
+# 7. Isso vai iniciar o servidor local na porta 8080 e mostrar o endereço no terminal.
+
+# 8. Acesse o site localmente digitando http://localhost:8080 ou http://127.0.0.1:8080 no seu navegador.
+
+```
+
+Pronto! Agora você pode ver e modificar o projeto na sua máquina.
+
+---
 
 ## Colaboradores
 
