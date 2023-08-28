@@ -26,11 +26,17 @@
    Status: Concluído 🚀
 </h4>
 
-## 📋 Tabela de conteúdos
-<!--ts-->
-   * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#funcionalidades)
-<!--te-->
+## 📋 Tabela de Conteúdos
+- [💻 Sobre o projeto](#-sobre-o-projeto)
+- [⚙️ Funcionalidades](#-funcionalidades)
+- [🎨 Layout](#layout)
+- [🧩 Modules](#modules)
+- [🚀 Getting Started](#-getting-started)
+- [🗺 Roadmap](#-roadmap)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [👏 Acknowledgments](#-acknowledgments)
+
 
 ---
 
