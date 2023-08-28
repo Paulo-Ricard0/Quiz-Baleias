@@ -52,7 +52,7 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 
 ## 🎨 Layout
 
-### Mobile
+### 📱 Mobile
 
 <p align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(3).png?alt=media&token=a6f14294-3bee-4bd7-9c14-fb3d74a79fcb" width="200px">
@@ -60,10 +60,10 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/mobile%20(4).png?alt=media&token=218b9156-d764-4657-80a0-d9d478780538" width="200px">
 </p>
 
-### Web
+### 🖥️ Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/Desktop.jpg?alt=media&token=a3a34a8c-0ace-47f0-849f-f5c15257d776" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://firebasestorage.googleapis.com/v0/b/quiz-baleias.appspot.com/o/Sem%20T%C3%ADtulo-1.png?alt=media&token=bd71f01b-83c9-409b-99fc-4e0db402cc55" width="800px">
 </p>
 
 ---
