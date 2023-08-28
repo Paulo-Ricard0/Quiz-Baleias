@@ -29,7 +29,7 @@
 ## 📋 Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#funcionalidades)
+   * [Funcionalidades](#-funcionalidades)
 <!--te-->
 
 ---
@@ -44,7 +44,7 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 
 ---
 
-<h2 id="#funcionalidades">⚙️ Funcionalidades</h2>
+## ⚙️ Funcionalidades
 
 - [x] **Tela inicial:** Ao clicar no botão "Começar", os usuários devem inserir um nome válido para iniciar o quiz.
 - [x] **Progressão do Quiz:** Os usuários avançam pelas perguntas, respondendo corretamente ou retornando à tela "tente novamente" ao responderem incorretamente.
