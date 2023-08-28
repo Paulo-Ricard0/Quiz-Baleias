@@ -26,6 +26,12 @@
    Status: Concluído 🚀
 </h4>
 
+## 📋 Tabela de conteúdos
+<!--ts-->
+   * [Sobre o projeto](#-sobre-o-projeto)
+   * [Funcionalidades](#funcionalidades)
+<!--te-->
+
 ---
 
 ## 💻 Sobre o projeto
@@ -38,7 +44,7 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 
 ---
 
-## ⚙️ Funcionalidades
+<h2 id="#funcionalidades">⚙️ Funcionalidades</h2>
 
 - [x] **Tela inicial:** Ao clicar no botão "Começar", os usuários devem inserir um nome válido para iniciar o quiz.
 - [x] **Progressão do Quiz:** Os usuários avançam pelas perguntas, respondendo corretamente ou retornando à tela "tente novamente" ao responderem incorretamente.
@@ -77,7 +83,7 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 5. O jogo termina quando você responder corretamente as cinco perguntas.
 6. Você pode jogar quantas vezes quiser, basta clicar em "Reiniciar" na tela final.
 
-Será se você consegue chegar até o final sem errar? 💯
+> Será se você consegue chegar até o final sem errar? 💯
 
 ---
 
@@ -136,7 +142,7 @@ npx http-server
 
 ```
 
-Pronto! Agora você pode ver e modificar o projeto na sua máquina.
+> Pronto! Agora você pode ver e modificar o projeto na sua máquina.
 
 ---
 
@@ -155,11 +161,25 @@ Este projeto foi desenvolvido com a colaboração de:
   </tr>
 </table>
 
-Obrigado a todos os membros da equipe por suas contribuições! 💙
+> Obrigado a todos os membros da equipe por suas contribuições! 💙
 
-## Contribuição
+---
 
-Se você deseja contribuir para este projeto, fique à vontade para enviar pull requests. Toda contribuição é bem-vinda!
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** deste repositório e clone o seu fork localmente.
+2. Crie um branch para as suas alterações usando o comando `git checkout -b nome-do-branch`.
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`. Siga as [convenções de commit](https://dev.to/mestredosmagos/como-colaborar-em-projetos-no-github-um-guia-para-iniciantes-1aao)
+4. Faça um push do seu branch para o seu fork usando o comando `git push origin nome-do-branch`.
+5. Abra um pull request para este repositório e descreva as suas alterações.
+   
+> Se você deseja contribuir para este projeto, fique à vontade para enviar pull requests. Toda contribuição é bem-vinda!
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
 ---
 
