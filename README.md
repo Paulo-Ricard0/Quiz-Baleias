@@ -40,7 +40,7 @@
 
 ---
 
-## 💻 Sobre o projeto
+<h2 id="#sobre-o-projeto">💻 Sobre o projeto</h2>
 
 🐋 Quiz sobre Baleias é um projeto de final de módulo desenvolvido para aplicar o conhecimento adquirido durante o Módulo 1 do [Programadores do Amanhã](https://programadoresdoamanha.org/). Nosso objetivo é fornecer um meio divertido e educativo para as pessoas aprenderem sobre esses magníficos animais e conscientizar sobre a importância da preservação das baleias e dos oceanos.
 
