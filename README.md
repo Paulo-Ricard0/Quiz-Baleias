@@ -28,7 +28,7 @@
 
 ## 📋 Tabela de Conteúdos
 - [💻 Sobre o projeto](#-sobre-o-projeto)
-- [⚙️ Funcionalidades](#-funcionalidades)
+- [⚙️ Funcionalidades](#funcionalidades)
 - [🎨 Layout](#-layout)
     - [📱 Mobile](#mobile)
     - [🖥️ Web](#web)
