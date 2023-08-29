@@ -26,6 +26,8 @@
    Status: Concluído 🚀
 </h4>
 
+</br>
+
 ## 📋 Tabela de Conteúdos
 - [Sobre o projeto](#-sobre-o-projeto)
 - [Funcionalidades](#️-funcionalidades)
