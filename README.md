@@ -27,19 +27,19 @@
 </h4>
 
 ## 📋 Tabela de Conteúdos
-- [💻 Sobre o projeto](#-sobre-o-projeto)
-- [⚙️ Funcionalidades](#️-funcionalidades)
-- [🎨 Layout](#-layout)
-  - [📱 Mobile](#-mobile)
-  - [🖥️ Web](#️-web)
-- [🎮 Como Jogar](#-como-jogar)
-- [🛠️ Tecnologias utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
-- [🚀 Como executar localmente](#-como-executar-localmente)
+- [Sobre o projeto](#-sobre-o-projeto)
+- [Funcionalidades](#️-funcionalidades)
+- [Layout](#-layout)
+  - [Mobile](#-mobile)
+  - [Web](#️-web)
+- [Como Jogar](#-como-jogar)
+- [Tecnologias utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
+- [Como executar localmente](#-como-executar-localmente)
   - [Pré-requisitos](#pré-requisitos)
-  - [👨‍💻 Rodando a aplicação](#-rodando-a-aplica%C3%A7%C3%A3o)
-- [🤝 Colaboradores](#-colaboradores)
-- [💪 Como contribuir para o projeto](#-como-contribuir-para-o-projeto)
-- [📝 Licença](#-licença)
+  - [Rodando a aplicação](#-rodando-a-aplica%C3%A7%C3%A3o)
+- [Colaboradores](#-colaboradores)
+- [Como contribuir para o projeto](#-como-contribuir-para-o-projeto)
+- [Licença](#-licença)
 
 ---
 
