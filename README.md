@@ -193,3 +193,4 @@ Este projeto esta sobe a licença [MIT](./LICENSE).
 ---
 
 Divirta-se jogando o quiz e aprendendo sobre as maravilhas das baleias! 🐋
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=30363d&style=flat&logo" alt="voltar ao topo" /></a></p>
