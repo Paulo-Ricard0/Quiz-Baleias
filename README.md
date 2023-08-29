@@ -35,6 +35,8 @@
 - [🎮 Como Jogar](#-como-jogar)
 - [🛠️ Tecnologias utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
 - [🚀 Como executar localmente](#-como-executar-localmente)
+  - [Pré-requisitos](#pré-requisitos)
+  - [👨‍💻 Rodando a aplicação](#️-rodando-a-aplicação)
 - [🤝 Colaboradores](#-colaboradores)
 - [💪 Como contribuir para o projeto](#-como-contribuir-para-o-projeto)
 - [📝 Licença](#-licença)
