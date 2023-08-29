@@ -33,7 +33,7 @@
   - [📱 Mobile](#-mobile)
   - [🖥️ Web](#️-web)
 - [🎮 Como Jogar](#-como-jogar)
-- [🛠️ Tecnologias utilizadas](#Tecnologias-utilizadas)
+- [🛠️ Tecnologias utilizadas](#Tecnologiasutilizadas)
 - [🚀 Como executar localmente](#-como-executar-localmente)
 - [🤝 Colaboradores](#-colaboradores)
 - [💪 Como contribuir para o projeto](#-como-contribuir-para-o-projeto)
