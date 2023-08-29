@@ -97,17 +97,13 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 > Será se você consegue chegar até o final sem errar? 💯
 
 ---
+
 ## 🛠️ Tecnologias utilizadas
-<div>
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML5-0e7fc0?style=for-the-badge&logo=html5&logoColor=white"></a>
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS3-0e7fc0?style=for-the-badge&logo=css3&logoColor=white"></a>
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0e7fc0?style=for-the-badge&logo=javascript&logoColor=white"></a>
-
 <a href="https://firebase.google.com/?hl=pt"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-0e7fc0?style=for-the-badge&logo=firebase&logoColor=white"></a>
- 
-</div>
 
 ---
 
