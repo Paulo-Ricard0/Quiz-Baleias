@@ -99,13 +99,13 @@ Através deste projeto, esperamos transmitir informações valiosas de forma env
 ---
 ## 🛠️ Tecnologias utilizadas
 <div>
-<img alt="GitHub language count" src="https://img.shields.io/badge/HTML5-0e7fc0?style=for-the-badge&logo=html5&logoColor=white">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML5-0e7fc0?style=for-the-badge&logo=html5&logoColor=white"></a>
 
-<img alt="Repository size" src="https://img.shields.io/badge/CSS3-0e7fc0?style=for-the-badge&logo=css3&logoColor=white">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS3-0e7fc0?style=for-the-badge&logo=css3&logoColor=white"></a>
 
-<img alt="License" src="https://img.shields.io/badge/JavaScript-0e7fc0?style=for-the-badge&logo=javascript&logoColor=white">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0e7fc0?style=for-the-badge&logo=javascript&logoColor=white"></a>
 
-<img alt="GitHub last commit" src="https://img.shields.io/badge/Firebase-0e7fc0?style=for-the-badge&logo=firebase&logoColor=white">
+<a href="https://firebase.google.com/?hl=pt"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-0e7fc0?style=for-the-badge&logo=firebase&logoColor=white"></a>
  
 </div>
 
